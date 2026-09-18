@@ -1,6 +1,6 @@
 {
-  "latest_version": "16.69.1",
-  "download_url": "https://github.com/kasunvimukthi/Python-rpa-assistant/releases/download/v16.69.1/RPA_Runner_Agent_16.69.1.exe",
-  "sha256": "574d878ef3ede528eb5d5a66f65e3fcf2dd7a832d4053ba17196c41bbb1d7005",
-  "signature": "CUlhn1XfoRpMns4GVL6wJ7F3+3mEVy/FhODhH/xSiETjawxgK0tmBhwIObqVVQBYbW/SeBFRZ+aIWxT28BXFAg=="
+  "latest_version": "16.70.0",
+  "download_url": "https://github.com/kasunvimukthi/Python-rpa-assistant/releases/download/v16.70.0/RPA_Runner_Agent_16.70.0.exe",
+  "sha256": "680e1ff5ff12bd21137aeca3c9dfea6825d9e0ce8ff2a1107141b7122a18c11f",
+  "signature": "aotSZz8QZKdPGEbP5owD6rhUUiij/+Ve0EzSlxzwpLSb9U29oQIZng32B7mN/R+yjarUL3gp1vxEugXkWVPTCQ=="
 }
