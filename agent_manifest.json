@@ -1,1 +1,6 @@
-
+{
+  "latest_version": "16.68.0",
+  "download_url": "https://github.com/kasunvimukthi/Python-rpa-assistant/releases/download/v16.68.0/RPA_Runner_Agent_16.68.0.exe",
+  "sha256": "bdddf9260eeaeb052a948bcd5195244d66ad3d38aef4dae2261c68fd666a8fc1",
+  "signature": "gTvfUccA4XkJOrrGV6G3Sh6RB6fclykX6JddOC76w7B3PRO6vTVWYT+8KgLk+UTA0owAqyYysGJ3VpXpuLb1AA=="
+}
