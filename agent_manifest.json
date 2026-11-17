@@ -1,6 +1,6 @@
 {
-  "latest_version": "20.0.0",
-  "download_url": "https://github.com/kasunvimukthi/Python-rpa-assistant/releases/download/v20.0.0/IHELM_Runner_Agent_20.0.0.exe",
-  "sha256": "351976fd71318efeaa9d2cab877ac2cc17800cda5adf41fe08abd2eabe0e1341",
-  "signature": "BDrFw3Danzs1sXfxvLwBoTi02kuUEEvKfUosFw1WGegeM8oOD1rG0jx6iDRvsxOudiCVV+lPcqVabGDq7VGDDA=="
+  "latest_version": "22.20.0",
+  "download_url": "https://github.com/kasunvimukthi/Python-rpa-assistant/releases/download/v22.20.0/IHELM_Runner_Agent_22.20.0.exe",
+  "sha256": "daa33fb2b56c26e71d84919fb79b9a86e9cf932660644cbd0e9de62133418a66",
+  "signature": "VN8y4saPszohchArGUBLrHWHVhkBW/58Do1Zfz+N1nHzQ01rpqRMsT/8Uqwcubf4+pEv/N3P+G0WG9PE24g1Cg=="
 }
